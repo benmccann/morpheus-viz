@@ -15,7 +15,6 @@
  */
 package com.zavtech.morpheus.viz.chart;
 
-import com.zavtech.morpheus.range.Range;
 import com.zavtech.morpheus.util.Bounds;
 
 public interface ChartAxis {

@@ -31,8 +31,6 @@ import com.zavtech.morpheus.viz.chart.Chart;
 import com.zavtech.morpheus.viz.chart.ChartEngine;
 import com.zavtech.morpheus.frame.DataFrame;
 import org.jfree.chart.axis.NumberAxis;
-import org.jfree.chart.axis.NumberTickUnit;
-import org.jfree.data.RangeType;
 
 /**
  * A ChartEngine implementation used to create JFreeChart instances based on the Morpheus charting API.

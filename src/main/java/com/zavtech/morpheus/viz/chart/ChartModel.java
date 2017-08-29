@@ -29,7 +29,6 @@ import java.util.stream.Stream;
 import com.zavtech.morpheus.array.Array;
 import com.zavtech.morpheus.array.ArrayCollector;
 import com.zavtech.morpheus.frame.DataFrame;
-import com.zavtech.morpheus.frame.DataFrameLeastSquares;
 import com.zavtech.morpheus.frame.DataFrameLeastSquares.Field;
 import com.zavtech.morpheus.index.Index;
 import com.zavtech.morpheus.util.Bounds;
